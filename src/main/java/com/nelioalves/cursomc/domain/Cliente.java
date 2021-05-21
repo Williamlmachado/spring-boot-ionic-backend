@@ -1,4 +1,5 @@
 package com.nelioalves.cursomc.domain;
+
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.HashSet;
